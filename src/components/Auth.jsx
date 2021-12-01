@@ -1,3 +1,4 @@
+import React from 'react';
 import classes from './Auth.module.css';
 
 const Auth = () => {
